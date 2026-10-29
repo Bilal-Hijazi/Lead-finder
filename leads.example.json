@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Example Dental Centre",
+    "domain": "exampledental.ae",
+    "area": "Jumeirah 1",
+    "note": "Known lead. Instagram @exampledental still links here."
+  },
+  {
+    "name": "web.dev (control - known healthy)",
+    "domain": "web.dev",
+    "area": "Dubai",
+    "note": "A site you know is healthy. Included so a run that flags everything is obviously wrong."
+  },
+  {
+    "name": "Okadoc (control - the directory competitor)",
+    "domain": "okadoc.com",
+    "area": "Dubai",
+    "note": "Not a lead. This is who outranks your prospects for their own name."
+  }
+]

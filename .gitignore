@@ -1,0 +1,27 @@
+node_modules/
+.env
+.env.*
+
+# Prospect data. A list of businesses about to be cold-emailed, with their
+# names, phones and addresses, never belongs in git, even a private repo, and
+# it goes stale within weeks. The tools write all of it to the repo root, so
+# match the shapes rather than listing names: each --category run makes new
+# files. Anchored with a leading slash so test fixtures in subfolders stay
+# visible.
+/leads.json
+/*-leads.json
+/*-contacts.json
+/*-contacts.md
+/contacts.json
+/contacts.md
+/contacts-manual.json
+/email-candidates.csv
+/report.md
+/report.json
+/lead-report*.md
+/lead-report*.json
+/*-report.md
+/*-report.json
+/*.xlsx
+/*.bak
+/*.csv

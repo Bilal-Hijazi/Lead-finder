@@ -1,0 +1,9 @@
+{
+  "name": "lead-finder",
+  "private": true,
+  "type": "module",
+  "description": "Finds Dubai businesses with broken or slow websites and records the evidence.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
